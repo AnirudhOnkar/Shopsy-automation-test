@@ -18,7 +18,7 @@ WebDriver: Chrome WebDriver should be installed and compatible with your browser
 Clone the Repository:
 
 
-git clone https://github.com/yourusername/shopsy-automation-test.git
+git clone https://github.com/AnirudhOnkar/Shopsy-automation-test.git
 cd shopsy-automation-test
 Install Dependencies:
 
